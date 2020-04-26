@@ -1,0 +1,25 @@
+@import 'every_layout/sidebar.scss';
+@import 'every_layout/cluster.scss';
+@import 'every_layout/stack.scss';
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.page {
+  margin: var(--gap);
+
+  display: flex;
+  flex-direction: column;
+
+  min-height: calc(100vh - 2 * var(--gap));
+}
+
+main {
+  max-width: var(--maxcontent);
+}
+
+header > * {
+  align-items: baseline;
+}

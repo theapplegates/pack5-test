@@ -1,0 +1,19 @@
+@import 'components/footer.scss';
+@import 'content_parts/figures.scss';
+@import 'content_parts/lists.scss';
+@import 'content_parts/tables.scss';
+@import 'content_parts/prism-onedark.scss';
+@import 'content_parts/code.scss';
+@import 'content_parts/markdown-classes.scss';
+
+/* external links */
+a[href^="http://"]:not([href^="https://amazing-hermann-6a7108.netlify.app"]):after,
+a[href^="https://"]:not([href^="https://amazing-hermann-6a7108.netlify.app"]):after
+{
+  content: ' \2197\FE0E';
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  top: -0.5em;
+  vertical-align: baseline;
+}

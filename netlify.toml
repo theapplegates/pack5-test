@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "https://pack11ty.netlify.com"
+  to = "https://amazing-hermann-6a7108.netlify.app"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://pack11ty.netlify.app"
+  to = "https://amazing-hermann-6a7108.netlify.app"
+  status = 301
+  force = true
