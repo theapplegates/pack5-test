@@ -12,4 +12,4 @@ Pack11ty now uses some of [Every Layout](https://every-layout.dev/) layouts and 
 ![](./home-sweet.jpg)
 
 
-![My logo](./home-sweet.jpg){.logo}{width=400}{height=400}{data-responsiver=logo}
+![My logo](home-sweet.jpg){.logo}{width=400}{height=400}{data-responsiver=logo}
