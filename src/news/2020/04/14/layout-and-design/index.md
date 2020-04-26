@@ -10,3 +10,6 @@ Pack11ty now uses some of [Every Layout](https://every-layout.dev/) layouts and 
 ![Pack11ty screenshot](home-sweet.jpg "Pack11ty's design as of 14th April 2020")
 
 ![](./home-sweet.jpg)
+
+
+![My logo](./home-sweet.jpg){.logo}{width=400}{height=400}{data-responsiver=logo}
